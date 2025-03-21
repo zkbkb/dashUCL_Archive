@@ -1,0 +1,15 @@
+//
+//  Config.xcconfig.example
+//  DashUCL
+//
+//  This is a template for the Config.xcconfig file.
+//  Create a copy named 'Config.xcconfig' and fill in your actual values.
+//
+
+// UCL API Credentials
+UCL_CLIENT_ID = your_client_id_here
+
+// Supabase URLs
+SUPABASE_URL = your_supabase_url_here
+SUPABASE_FUNCTIONS_URL = your_supabase_functions_url_here
+SUPABASE_AUTH_URL = your_supabase_auth_url_here 
