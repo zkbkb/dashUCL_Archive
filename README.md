@@ -5,6 +5,10 @@ This app integrates and **displays** ```user information``` and ```timetables```
 
 Other features such as ```booking and management``` of ```study spaces and available rooms``` may also be developed in the future.
 
+
+## Here is a flowchart to explain the dashUCL system.
+![dashUCL](https://github.com/user-attachments/assets/88c9a3e7-67e4-4833-b49b-c6478df785ad)
+
 # Setup    
 ## Development Setup
 For this setup to work you need to have xcode and node + pnpm installed. This guide has only been tested on MacOS.
