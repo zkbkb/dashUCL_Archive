@@ -5,9 +5,9 @@ This app integrates and **displays** ```user information``` and ```timetables```
 
 Other features such as ```booking and management``` of ```study spaces and available rooms``` may also be developed in the future.
 
-
-## Here is a flowchart to explain the dashUCL system.
-![dashUCL](https://github.com/user-attachments/assets/88c9a3e7-67e4-4833-b49b-c6478df785ad)
+---
+![diagram (4)](https://github.com/user-attachments/assets/eec671d3-6969-4e96-91ea-8b0357610fb6)
+This is a flowchart for its system structure
 
 # Setup    
 ## Development Setup
